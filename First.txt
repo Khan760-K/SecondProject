@@ -1,1 +1,2 @@
 hello Dev Ops
+Now we are learning Git,  
